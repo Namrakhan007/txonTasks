@@ -125,12 +125,13 @@ section{
 #mypic{
     border:2px solid rgb(109, 18, 48);
     border-radius: 120px 30px;
-    transform: rotate(-15deg);
+    transform: rotate(15deg);
     display: flex;
     
     top: 100;
     margin: 2rem;
-    width: 60%;
+    width: 70%;
+    /* height: 50rem; */
 
     align-items: flex-end;
 
